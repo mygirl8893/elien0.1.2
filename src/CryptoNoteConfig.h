@@ -90,8 +90,8 @@ namespace parameters {
 
 } // parameters
 
-#define CRYPTONOTE_NAME 	                               "elien"
-#define GENESIS_COINBASE_TX_HEX                       ""
+#define CRYPTONOTE_NAME 	                        "elien"
+#define GENESIS_COINBASE_TX_HEX                       	""
 
 #define GENESIS_NONCE                                   70
 #define GENESIS_TIMESTAMP                               1531584279 // 2018-07-14T16:04:39+00:00
